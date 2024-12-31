@@ -1,0 +1,8 @@
+New Year's Event :
+
+'event' -> menu Event
+'raid' in menu Event -> Boss Raid
+'ex' in menu Event -> exchange new ?? Unit (can't obtain through Gacha)
+'play' in menu Event -> mini Math Game
+'quit' in menu Event -> back to Main Menu
+
